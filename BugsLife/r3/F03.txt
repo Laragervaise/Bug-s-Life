@@ -1,0 +1,19 @@
+# Bugs' life 2016-17
+#
+# F03: comportement du garde.
+#
+
+#fourmiliere
+2
+	0. 0. 0 1 9 5
+		1 0. 0.
+	FIN_LISTE
+
+	10. -10. 1 0 0 2
+		1 3. -3. 0. 0. 0
+	FIN_LISTE
+
+FIN_LISTE
+
+#nourriture
+0

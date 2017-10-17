@@ -1,0 +1,12 @@
+# Bugs' life 2016-17
+#
+# E02: "Erreur : au moins une coordonnée de la fourmiliere 0 est incorrecte-> -30 et/ou 10"
+#
+
+#fourmiliere
+1
+    -30 10 0 0 1 2
+FIN_LISTE
+
+#nourriture
+0

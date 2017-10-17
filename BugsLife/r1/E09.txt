@@ -1,0 +1,26 @@
+# Bugs' life 2016-17
+#
+# E09: "Fichier correct"
+#
+
+#fourmiliere
+2
+    10 10 2 2 4 5
+        #Ouvriere
+		40  5.  5.  2.  2. 0
+		2  10. 10. 15. 15. 0
+	FIN_LISTE
+	    #Garde
+		20 10. 10.  30 10. 10.
+	FIN_LISTE
+
+    -10 -10 0 1 4 4
+	    #Garde
+		10 -10. -10.
+	FIN_LISTE
+FIN_LISTE
+
+#nourriture
+3
+	0. 0.  2. 2.  15. 15.
+FIN_LISTE

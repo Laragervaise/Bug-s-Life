@@ -1,0 +1,30 @@
+# Fichier sauvegarde Bug's life
+
+# Nb fourmilieres
+10
+
+  # Fourmiliere[0]
+    -18.000000 -18.000000 0 0 4 2.999000
+  # Fourmiliere[1]
+    -3.000000 0.000000 0 0 5 3.235068
+  # Fourmiliere[2]
+    3.000000 0.000000 0 0 6 2.763932
+  # Fourmiliere[3]
+    10.000000 10.000000 0 0 7 3.644751
+  # Fourmiliere[4]
+    -10.000000 10.000000 0 0 8 3.827427
+  # Fourmiliere[5]
+    10.000000 -10.000000 0 0 4 2.999000
+  # Fourmiliere[6]
+    -10.000000 -10.000000 0 0 4 2.999000
+  # Fourmiliere[7]
+    -18.000000 18.000000 0 0 4 2.999000
+  # Fourmiliere[8]
+    18.000000 -18.000000 0 0 4 2.999000
+  # Fourmiliere[9]
+    18.000000 18.000000 0 0 4 2.999000
+FIN_LISTE
+
+# Nb nourritures
+0
+    

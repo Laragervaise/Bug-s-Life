@@ -1,0 +1,20 @@
+# Bugs' life 2016-17
+#
+# F02: comportement "choix" de cible.
+#
+
+#fourmiliere
+2
+	0. 0. 1 0 0 2
+		1 0. 0. 0. 0. 0
+	FIN_LISTE
+
+	5. 0. 0 1 0 2
+		1 5. 0. 
+	FIN_LISTE
+FIN_LISTE
+
+#nourriture
+2
+	9. 0.  0. 10.
+FIN_LISTE

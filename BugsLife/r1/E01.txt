@@ -1,0 +1,10 @@
+# Bugs' life 2016-17
+#
+# E01: "Fichier correct"
+#
+
+#fourmiliere
+0
+
+#nourriture
+0

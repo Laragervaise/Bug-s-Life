@@ -1,0 +1,14 @@
+# Bugs' life 2016-17
+#
+# E05: "Erreur : le garde 0 déborde de la fourmiliere 0"
+#
+
+#fourmiliere
+1
+    10 10 0 1 4 4
+		20 10. 13.4
+	FIN_LISTE
+FIN_LISTE
+
+#nourriture
+0

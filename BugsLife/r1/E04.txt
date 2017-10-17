@@ -1,0 +1,14 @@
+# Bugs' life 2016-17
+#
+# E04: "Erreur : age 1000 trop grand pour fourmi 0 de fourmiliere 0"
+#
+
+#fourmiliere
+1
+    -10 10 1 0 1 3
+		1000 -10 10 -10 10 0
+	FIN_LISTE
+FIN_LISTE
+
+#nourriture
+0

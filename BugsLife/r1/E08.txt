@@ -1,0 +1,19 @@
+# Bugs' life 2016-17
+#
+# E08:"Erreur :liste de nourriture -> pas assez ou erreur de syntaxe"
+#
+
+#fourmiliere
+1
+    10 10 2 2 4 5
+		40  5.  5.  2.  2. 0
+		2  10. 10. 15. 15. 0
+	FIN_LISTE
+		20 10. 10.   30 10. 10.
+	FIN_LISTE
+FIN_LISTE
+
+#nourriture
+3
+	0. 0.   2. 2. 
+FIN_LISTE
